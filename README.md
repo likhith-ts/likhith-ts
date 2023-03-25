@@ -3,6 +3,7 @@
 - 🌱 I’m currently working on Data Science and ML projects
 - 📫 How to reach me:</br>
    <img src='https://www.iconpacks.net/icons/1/free-mail-icon-142-thumb.png' height=25px> Email me-><a href='https://mail.google.com/mail/?view=cm&fs=1&to=likhithstark369@gmail.com' target='_blank'>likhithstark369@gmail.com</a></br>
+    <img src='https://www.iconpacks.net/icons/1/free-mail-icon-142-thumb.png' height=25px> Email me-><a href='https://mail.google.com/mail/?view=cm&fs=1&to=likhith.usurpati28@gmail.com' target='_blank'>likhith.usurpati28@gmail.com</a></br>
    <img src='https://cdn-icons.flaticon.com/png/512/739/premium/739257.png?token=exp=1634400542~hmac=62cf3a0767c642978ffa8c072cac46fc' height=25px> Twitter-> <a href='https://twitter.com/likhith_003?ref_src=twsrc%5Etfw' target='_blank'>likhith_003</a></br>
 
 <!---
