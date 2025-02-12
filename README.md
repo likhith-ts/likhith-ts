@@ -4,29 +4,12 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Likhith.<br>
-        Currently learning to walk in ML/DL along side with App development and Data Science.<br>
-        Open for collaborating on open source projects.<br>
+        A highly motivated Computer Science graduate with a specialization in Big Data Analytics.<br>Passionate about learning and developing cutting-edge technologies to solve complex problems.<br>With a solid foundation in programming, machine learning, and data science, I aim to create impactful, scalable, and optimized solutions.<br>
+        Open for collaborating on open source projects | Looking for Internship/Entry-Level Remote based Job Roles in field of AI/ML<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/likhith-usurupati-003m/">
-        <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://www.kaggle.com/likhithusurupati">
-        <img src="https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle" alt="Kaggle">
-    </a>
-    <a href="https://likhithusurupati28.medium.com/">
-        <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-    </a>
-   <a href="https://hashnode.com/@likhith">
-        <img src="https://img.shields.io/badge/Hashnode-black?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
-    </a>
-    <a href="https://leetcode.com/likhith_usurupati/">
-        <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode" alt="LeetCode">
-    </a>
-    <a href="https://www.hackerrank.com/likhith_u?hr_r=1">
-        <img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=HackerRank" alt="HackerRank">
-    </a>
 </p>
-
+<div align="center">
+    
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/likhith-ts)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/likhith-ts)
@@ -57,37 +40,52 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/likhith-ts)
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/likhith-ts)
 
-<details>
+</div>
+
 <p align="center">
   <a href="https://github.com/likhith-ts">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=likhith-ts&theme=transparent" />
   </a>
   <a href="https://github.com/likhith-ts">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhith-ts&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/likhith-ts">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=likhith-ts&theme=transparent" />
   </a>
   <a href="https://github.com/likhith-ts">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhith-ts&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhith-ts&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp&card_width=800&hide_border=true&theme=transparent" />
   </a>
 </p>
-</details>
-
+<h3 align="center">Socials</h3>
+<p align="center">
+    <a href="https://www.linkedin.com/in/likhith-usurupati28/">
+        <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://www.kaggle.com/likhithusurupati">
+        <img src="https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle" alt="Kaggle">
+    </a>
+    <a href="https://likhithusurupati28.medium.com/">
+        <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    </a>
+   <a href="https://hashnode.com/@likhith">
+        <img src="https://img.shields.io/badge/Hashnode-black?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
+    </a>
+    <a href="https://leetcode.com/likhith_usurupati/">
+        <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode" alt="LeetCode">
+    </a>
+    <a href="https://www.hackerrank.com/likhith_u?hr_r=1">
+        <img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=HackerRank" alt="HackerRank">
+    </a>
+</p>    
 <p align="center">
   <a href="https://github.com/likhith-ts">
     <img src="https://komarev.com/ghpvc/?username=likhith-ts&color=blue&style=flat)" />
   </a>
 </p>
-<!-- [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/likhith-ts) -->
-<!--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Transformer and Large Language Models 💀
+- 🌱 I’m currently learning advanced deep learning and unreal engine5 for game design ☠️
+- 👯 I’m looking to collaborate on open source projects and hackathons 😎
+- 🤔 I’m looking for help with my Job & Career 😒
+- 💬 Ask me about ... 🤔 anything you want 👍
+- 📫 How to reach me: likhith.usurpati28@gmail.com 📩
+- 😄 Pronouns: He/Him 🧔‍♂️
+- ⚡ Fun fact: I love video games 🎮
+
