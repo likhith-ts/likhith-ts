@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "likhith-ts": "file:",
+    "node": "^23.8.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
