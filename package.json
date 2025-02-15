@@ -1,4 +1,5 @@
 {
+  "homepage": "likhith-ts.github.io/likhith-ts",
   "name": "likhith-ts",
   "private": true,
   "version": "0.0.0",
@@ -7,9 +8,12 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "likhith-ts": "file:",
     "node": "^23.8.0",
     "react": "^19.0.0",
