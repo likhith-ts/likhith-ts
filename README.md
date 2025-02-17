@@ -1,7 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Likhith%20Usurupati&textBg=false&reversal=true&desc=Welcome%20to%20my%20Github%20Profile&descAlignY=65&animation=twinkling&fontAlignY=40&descAlign=50"/>
 </p>
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">
+  <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=66F7CA&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+guys!;%C2%A1Hola%2C+chicos!;Salut%2C+les+gars+!;Ciao%2C+ragazzi!;+%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C+%E0%A4%A6%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%82!;%E3%81%BF%E3%82%93%E3%81%AA%E3%80%81%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81" alt="Typing SVG" /></a>
+</h1>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=likhith-ts&color=red&style=plastic)" />
 </p>
