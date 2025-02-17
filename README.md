@@ -1,18 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Likhith%20Usurupati&textBg=false&reversal=true&desc=Welcome%20to%20my%20Github%20Profile&descAlignY=65&animation=twinkling&fontAlignY=40&descAlign=50"/>
 </p>
 <h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=likhith-ts&color=red&style=plastic)" />
-    <br>
-    <b>Welcome to my Github Profile</b>
 </p>
 <p align="center">
     <i>
         <b>I'm Likhith</b><br>
         💪 A highly motivated Computer Science graduate with a specialization in Big Data Analytics 💪<br>
         😎 Passionate about learning and developing cutting-edge technologies to solve complex problems 😎<br>
-        ⚡With a solid foundation in programming, machine learning, and data science, I aim to create impactful, scalable, and optimized solutions⚡<br>
+        ⚡With a solid foundation in programming, machine learning, & AI, I aim to create impactful, scalable, and optimized solutions⚡<br>
         🤗 Open for collaborating on open source projects | 💫 Looking for Internship/Entry-Level Remote based Job Roles in field of AI/ML<br>
     </i><br>
 </p>
@@ -77,7 +75,6 @@
 
 </div>
 
-![stargazers](https://hit.yhype.me/github/profile?account_id=59059560)
 
 <h2 align="center">Socials</h2>
 <p align="center">
