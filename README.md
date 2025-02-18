@@ -60,13 +60,13 @@ Fun fact: 🎮 I love video games
 
 ## Skills
 
-<img align="left" src="https://www.icegif.com/wp-content/uploads/2022/03/icegif-71.gif"/>
+<img align="left" src="https://www.icegif.com/wp-content/uploads/2022/03/icegif-71.gif" width="40%" height="650"/>
 
 ### Programming Languages
 <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-R-black?style=for-the-badge&logo=R&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-Dart-black?style=for-the-badge&logo=dart&logoColor=white"/> 
-<img src="https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust&logoColor=white"/>
@@ -87,6 +87,7 @@ Fun fact: 🎮 I love video games
 [![MLFlow](https://img.shields.io/badge/mlflow-black?style=for-the-badge&logo=mlflow&logoColor=blue)](https://github.com/likhith-ts)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=for-the-badge&logo=pytorch)](https://github.com/likhith-ts)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/likhith-ts)
+<br> 
 [![Tensorflow](https://img.shields.io/badge/Tensorflow-black?style=for-the-badge&logo=Tensorflow)](https://github.com/likhith-ts)
 [![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/likhith-ts)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=for-the-badge&logo=huggingface)](https://github.com/likhith-ts)
@@ -97,6 +98,7 @@ Fun fact: 🎮 I love video games
 [![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android)](https://hub.docker.com/u/likhith-ts)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes)
+<br>
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs)
