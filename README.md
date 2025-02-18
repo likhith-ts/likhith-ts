@@ -14,23 +14,38 @@
         💪 A highly motivated Computer Science graduate with a specialization in Big Data Analytics 💪<br>
         😎 Passionate about learning and developing cutting-edge technologies to solve complex problems 😎<br>
         ⚡With a solid foundation in programming, machine learning, & AI, I aim to create impactful, scalable, and optimized solutions⚡<br>
-        🤗 Open for collaborating on open source projects | 💫 Looking for Internship/Entry-Level Remote based Job Roles in field of AI/ML<br>
+        🤗 Open for collaborating on open source projects | 💫 Looking for Internship/Entry-Level Remote Jobs<br>
     </i><br>
 </p>
 
 ```yaml
-- 🔭 I’m currently working on Transformer and Large Language Models 💀
-- 🌱 I’m currently learning advanced deep learning and unreal engine5 for game design ☠️
-- 👯 I’m looking to collaborate on open source projects and hackathons 😎
-- 🤔 I’m looking for help with my Job & Career 😒
-- 💬 Ask me about ... 🤔 anything you want 👍
-- 📫 How to reach me: likhith.usurpati28@gmail.com 📩
-- 😄 Pronouns: He/Him 🧔‍♂️
-- ⚡ Fun fact: I love video games 🎮
+About Me:
+  pronouns: He/Him 🧔‍♂️
+  experience:
+    - 🏫 academics: 4 years
+    - 🏭 industry: 2 months
+  roles:
+    - 📈 AI/ML Engineer
+    - 💻 Full-Stack Developer
+  passions:
+    - 🤖 Artificial Intelligence
+    - 🎮 Game Development
+    - ⛓️‍💥 Blockchain & Web3
+    - 🔐 Cybersecurity & Reverse Engineering
+  on my radar:
+    - 🔭 I’m currently working on Transformer and Large Language Models
+    - 🌱 I’m currently learning advanced deep learning and unreal engine5 for game design 
+    - 👯 I’m looking to collaborate on open source projects and hackathons
+    - 🤔 I’m looking for Job & Career Oppurtinites
+  contact:
+    - 📫 likhith.usurpati28@gmail.com
+    - ☎️ +91 8639235234
+
+Fun fact: 🎮 I love video games 
 ```
 <div align="center">
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=likhith-ts&theme=onedark&column=-1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=likhith-ts&theme=onedark&column=-1" />
 </p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=likhith-ts&theme=github-dark-dimmed&custom_title=Likhith's%20Activity%20Graph&hide_border=true" />
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhith-ts&langs_count=5&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp&card_width=800&hide_border=true&theme=shadow_red" /> -->
@@ -42,12 +57,16 @@
 </div>
 
 <div align="center">
-    
+
+## Skills
+
+<img align="left" src="https://www.icegif.com/wp-content/uploads/2022/03/icegif-71.gif"/>
+
 ### Programming Languages
 <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-R-black?style=for-the-badge&logo=R&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-Dart-black?style=for-the-badge&logo=dart&logoColor=white"/> 
-<img src="https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust&logoColor=white"/>
@@ -58,18 +77,19 @@
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](/)
 [![Markdown](https://img.shields.io/badge/-Markdown-black?style=for-the-badge&logo=markdown&logoColor=white)](/)
 
-### Query Langs
+### Query & DBMS
 <img src="https://img.shields.io/badge/-Mysql-black?style=for-the-badge&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-Sqllite3-black?style=for-the-badge&logo=R&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-Dart-black?style=for-the-badge&logo=dart&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-Sqllite3-black?style=for-the-badge&logo=sqlite&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white"/> 
 
 ### ML Frameworks
-[![Pandas](https://img.shields.io/badge/-pandas-black?style=for-the-badge&logo=pandas)](https://github.com/likhith-ts)
-[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/likhith-ts)
+[![Ollama](https://img.shields.io/badge/ollama-black?style=for-the-badge&logo=ollama)](https://github.com/likhith-ts)
 [![MLFlow](https://img.shields.io/badge/mlflow-black?style=for-the-badge&logo=mlflow&logoColor=blue)](https://github.com/likhith-ts)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=for-the-badge&logo=pytorch)](https://github.com/likhith-ts)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/likhith-ts)
-[![Tensorflow](https://img.shields.io/badge/Tensorflow-black?style=for-the-badge&logo=Tensorflow)](https://github.com/likhith0ts)
+[![Tensorflow](https://img.shields.io/badge/Tensorflow-black?style=for-the-badge&logo=Tensorflow)](https://github.com/likhith-ts)
 [![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/likhith-ts)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=for-the-badge&logo=huggingface)](https://github.com/likhith-ts)
 
 
 ### Tools & Frameworks
@@ -81,6 +101,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs)
 
+
 ### IDEs & OS
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=data:image/png;base64,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)
 ![JetBrains](https://img.shields.io/badge/JetBrains-black?style=for-the-badge&logo=jetbrains)
@@ -90,28 +111,25 @@
 
 </div>
 
+## 
+<div align="center">
 
-<h2 align="center">Socials</h2>
-<p align="center">
-    <a href="https://www.linkedin.com/in/likhith-usurupati28/">
-        <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://www.kaggle.com/likhithusurupati">
-        <img src="https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle" alt="Kaggle">
-    </a>
-    <a href="https://likhithusurupati28.medium.com/">
-        <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-    </a>
-   <a href="https://hashnode.com/@likhith">
-        <img src="https://img.shields.io/badge/Hashnode-black?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
-    </a>
-    <a href="https://leetcode.com/likhith_usurupati/">
-        <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode" alt="LeetCode">
-    </a>
-    <a href="https://www.hackerrank.com/likhith_u?hr_r=1">
-        <img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=HackerRank" alt="HackerRank">
-    </a>
-</p>    
+  ### Social Media & Blogs
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/likhith-usurupati28/)
+  [![Twitter](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/likhith_003)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-064a7d?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/likhithusurupati)
+  [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium)](https://medium.com/@likhithusurupati28)
+  [![Hashnode](https://img.shields.io/badge/Hashnode-000000?style=for-the-badge&logo=hashnode)](https://hashnode.com/@likhith)
+
+  ### My Problem-Solving Journey
+  [![HackerRank](https://img.shields.io/badge/HackerRank-072913?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/likhith_u)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-a36305?style=for-the-badge&logo=leetcode)](https://leetcode.com/likhith_usurupati/)
+  [![Codechef](https://img.shields.io/badge/Codechef-D0021B?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/likhith_003)
+  [![PicoCTF](https://img.shields.io/badge/PicoCTF-FF4088?style=for-the-badge)](https://play.picoctf.org/users/likhith_u28)
+  [![HTB](https://img.shields.io/badge/Hack%20The%20Box-598503?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/profile/overview)
+
+  
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
