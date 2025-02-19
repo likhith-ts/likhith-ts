@@ -22,12 +22,16 @@
 About Me:
   pronouns: He/Him 🧔‍♂️
   experience:
-    - 🏫 academics: 4 years
-    - 🏭 industry: 2 months
-  roles:
+    - 🏫 academics:
+          - 🎓 B.Tech CSE [Specialization: Big Data Analytics]
+             [SRM University, Chennai] [2020-24]
+    - 🏭 professional:
+          - 🧑🏻‍💼 AiCan Automate Pvt. Ltd. [Role: ML Intern]
+             [Remote, Mumbai] [Nov 2022 - Dec 2022]
+  passions:
     - 📈 AI/ML Engineer
     - 💻 Full-Stack Developer
-  passions:
+  interests:
     - 🤖 Artificial Intelligence
     - 🎮 Game Development
     - ⛓️‍💥 Blockchain & Web3
