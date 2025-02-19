@@ -37,7 +37,7 @@ About Me:
     - ⛓️‍💥 Blockchain & Web3
     - 🔐 Cybersecurity & Reverse Engineering
   on my radar:
-    - 🔭 I’m currently working on Transformer and Large Language Models
+    - 🔭 I’m currently exploring on Transformer and Large Language Models
     - 🌱 I’m currently learning advanced deep learning and unreal engine5 for game design 
     - 👯 I’m looking to collaborate on open source projects and hackathons
     - 🤔 I’m looking for Job & Career Oppurtinites
