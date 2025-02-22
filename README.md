@@ -123,6 +123,7 @@ Fun fact: 🎮 I love video games
   ### Social Media & Blogs
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/likhith-usurupati28/)
   [![Twitter](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/likhith_003)
+  [![Reddit](https://img.shields.io/badge/Reddit-d54800?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/likhith_ts003/)
   [![Kaggle](https://img.shields.io/badge/Kaggle-064a7d?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/likhithusurupati)
   [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium)](https://medium.com/@likhithusurupati28)
   [![Hashnode](https://img.shields.io/badge/Hashnode-000000?style=for-the-badge&logo=hashnode)](https://hashnode.com/@likhith)
