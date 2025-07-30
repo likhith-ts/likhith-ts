@@ -38,7 +38,7 @@ current_focus:
   - "👯 Open to collaborations on Open Source projects"
   - "🤔 Seeking internship/entry-level job opportunities"
 
-interests: ["AI/ML", "SDE","Game Development"]
+interests: ["AI/ML", "SDE", "Game Dev"]
 hobbies: ["Gaming", "Music"]
 contact: "likhith.usurpati28@gmail.com"
 ```
