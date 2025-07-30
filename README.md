@@ -19,7 +19,7 @@
 <br>
 
 <div align="">
-  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Ya63hjCGVaHjmXzWy0/giphy.gif?cid=ecf05e47ci0g5cdsj38z3x3h9h0jvwymau6bs1fhoa5j75gc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  <img align="right" alt="Coding" width="400" src="https://github.com/likhith-ts/likhith-ts/blob/main/skull.gif">
   
 <h3 align="center"> 👨‍💻 About Me </h3> 
 
