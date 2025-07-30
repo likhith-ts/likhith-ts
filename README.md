@@ -26,20 +26,20 @@
 ```yaml
 name: "Likhith Usurupati"
 pronouns: "He/Him" 
-role: "AI/ML Engineer & Full-Stack Developer"
+role: "Aspiring AI/ML Engineer / Full-Stack Developer"
 education: "B.Tech CSE - Big Data Analytics"
 university: "SRM University, Chennai (2020-24)"
 experience: "ML Intern @ AiCan Automate Pvt. Ltd."
 location: "India"
 
 current_focus:
-  - "🔭 Exploring Transformers and Large Language Models"
-  - "🌱 Learning advanced Deep Learning & Unreal Engine 5"
-  - "👯 Open to collaborations on AI/ML projects"
-  - "🤔 Seeking internship/entry-level opportunities"
+  - "🔭 Exploring LLMs, GenAI and AI Agents"
+  - "🌱 Learning advanced Deep Learning & Agentic RAG"
+  - "👯 Open to collaborations on Open Source projects"
+  - "🤔 Seeking internship/entry-level job opportunities"
 
-interests: ["AI/ML", "Game Development", "Blockchain", "Cybersecurity"]
-hobbies: ["Gaming", "Problem Solving", "Open Source Contributing"]
+interests: ["AI/ML", "Game Development"]
+hobbies: ["Gaming", "Music"]
 contact: "likhith.usurpati28@gmail.com"
 ```
 </div>
