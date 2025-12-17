@@ -153,10 +153,10 @@ contact: "likhith.usurpati28@gmail.com"
   </p>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h3>🎯 Fun Fact</h3>
   <p><em>🎮 When I'm not coding, you'll find me exploring virtual worlds and gaming! 🎮</em></p>
-</div>
+</div> -->
 
 ---
 
