@@ -149,7 +149,7 @@ contact: "likhith.usurpati28@gmail.com"
   <h3>💬 Let's Connect!</h3>
   <p>
     📧 <strong>Email:</strong> <a href="mailto:likhith.usurpati28@gmail.com">likhith.usurpati28@gmail.com</a><br>
-    📱 <strong>Phone:</strong> <a href="tel:+918639235234">+91 8639235234</a>
+    <!-- 📱 <strong>Phone:</strong> <a href="tel:+918639235234">+91 8639235234</a> -->
   </p>
 </div>
 
