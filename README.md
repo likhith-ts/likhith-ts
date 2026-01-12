@@ -13,14 +13,14 @@
   <br>
   <p> Welcome! Who am I?</p>
    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=66F7CA&center=true&vCenter=true&random=true&width=520&lines=Genius,Billionaire,Playboy,Philanthropist.." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=66F7CA&center=true&vCenter=true&random=true&width=520&lines=Genius,Billionaire,Playboy,Philanthropist.." alt="Genius,Billionaire,Playboy,Philanthropist.." />
   </a>
 </h1>
 
 <p align="center">
   Just Kidding! I'm just a friendly neighborhood<br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=66F7CA&center=true&vCenter=true&random=true&width=500&lines=AI%2FML+Engineer;Full-Stack+Developer;Python+Developer;Software+Developer!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=66F7CA&center=true&vCenter=true&random=true&width=500&lines=AI%2FML+Engineer;Full-Stack+Developer;Python+Developer;Software+Developer!" alt="Open Source Developer" />
   </a>
 </p>
 
