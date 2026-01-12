@@ -48,7 +48,7 @@ contact: "likhith.usurpati28@gmail.com"
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<!-- <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=likhith-ts&theme=onedark&column=7&margin-w=15&margin-h=15" />
 </div>
@@ -65,16 +65,16 @@ contact: "likhith.usurpati28@gmail.com"
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhith-ts&theme=algolia" />
 </div>
 
-<br>
+<br> -->
 
-<h2 align="center">📈 Activity Graph</h2>
+<!-- <h2 align="center">📈 Activity Graph</h2> -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=likhith-ts&theme=github-dark-dimmed&custom_title=Likhith's%20Contribution%20Graph&hide_border=true&area=true" />
 </div>
 
----
+<!-- ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+ <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
 
@@ -116,49 +116,60 @@ contact: "likhith.usurpati28@gmail.com"
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</div>
-
----
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<div align="center">
-
-### 💼 Professional
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/likhith-usurupati28/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/likhithusurupati)
-
-### 🌍 Social
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/likhith_003)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/likhith_ts003/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@likhithusurupati28)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@likhith)
-
-### 🏆 Competitive Programming
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/likhith_usurupati/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/likhith_u)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/likhith_003)
-[![PicoCTF](https://img.shields.io/badge/PicoCTF-FF6B35?style=for-the-badge&logo=security&logoColor=white)](https://play.picoctf.org/users/likhith_u28)
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/overview)
-
-</div>
-
----
-
-<div align="center">
-  <h3>💬 Let's Connect!</h3>
-  <p>
-    📧 <strong>Email:</strong> <a href="mailto:likhith.usurpati28@gmail.com">likhith.usurpati28@gmail.com</a><br>
-    <!-- 📱 <strong>Phone:</strong> <a href="tel:+918639235234">+91 8639235234</a> -->
-  </p>
-</div>
-
-<!-- <div align="center">
-  <h3>🎯 Fun Fact</h3>
-  <p><em>🎮 When I'm not coding, you'll find me exploring virtual worlds and gaming! 🎮</em></p>
 </div> -->
 
----
+<div align="center">
+  <br>
+<!-- ⋆ ─── ✧ ─── ⋆ -->
+  <h2>💬 Wanna collab? Let's Connect!</h2>
+  <p>
+    If you’d like to discuss open-source, machine learning, project ideas, or collaboration, you can schedule a short call with me. <br>
+    📧 <strong>Email → </strong> <a href="mailto:likhith.usurpati28@gmail.com">likhith.usurpati28@gmail.com</a><br>
+    📅 <srong>Schedule via → </srong><a href="https://cal.com/likhith-usurupati-28">Cal.com</a><br>
+    <!-- 📱 <strong>Phone:</strong> <a href="tel:+918639235234">+91 8639235234</a> -->
+    Please keep calls focused and specific
+  </p>
+    ⋆ ─── ✧ ─── ⋆
+</div>
+
+
+<div align="center">
+
+## ❤️ Support My Open Source Work
+If my projects help you, consider supporting me via GitHub Sponsors.
+Your support helps sustain development and keep everything open-source.
+
+👉 [Sponsor me on GitHub](https://github.com/sponsors/likhith-ts) 
+<br><br>
+⋆ ─── ✧ ─── ⋆
+  
+</div>
+
+
+<div align="center">
+
+  <h2 align="center">🌐 Follow me on 👇</h2>
+
+  <!-- ### 🌍 Social Networks -->
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/likhith-usurupati28/)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/likhithusurupati)
+  [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/likhith_003)
+  [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/likhith_ts003/)
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@likhithusurupati28)
+  [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@likhith)
+  
+  <!-- 
+  ### 🏆 Coding Platforms
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/likhith_usurupati/)
+  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/likhith_u)
+  [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/likhith_003)
+  [![PicoCTF](https://img.shields.io/badge/PicoCTF-FF6B35?style=for-the-badge&logo=security&logoColor=white)](https://play.picoctf.org/users/likhith_u28)
+  [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/overview)
+  -->
+⋆ ─── ✧ ─── ⋆
+  <br>
+
+</div>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
