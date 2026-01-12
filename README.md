@@ -1,14 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Likhith%20Usurupati&textBg=false&reversal=true&desc=Welcome%20to%20my%20Github%20Profile&descAlignY=65&animation=fadeIn" />
-</div>
-
-<h1 align="center">
-  <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">
-  <br><br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=66F7CA&center=true&vCenter=true&random=true&width=500&lines=AI%2FML+Engineer;Full-Stack+Developer;Python+Developer;Problem+Solver+%26+Innovator;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
-  </a>
-</h1>
+</div> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=likhith-ts&color=red&style=for-the-badge&label=Profile+Views" />
@@ -16,7 +8,21 @@
   <img src="https://img.shields.io/github/stars/likhith-ts?label=Stars&style=for-the-badge&color=yellow" />
 </p>
 
-<br>
+<h1 align="center">
+  <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋 Hola !"> Hola !
+  <br>
+  <p> Welcome! Who am I?</p>
+   <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=66F7CA&center=true&vCenter=true&random=true&width=520&lines=Genius,Billionaire,Playboy,Philanthropist.." alt="Typing SVG" />
+  </a>
+</h1>
+
+<p align="center">
+  Just Kidding! I'm just a friendly neighborhood<br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=66F7CA&center=true&vCenter=true&random=true&width=500&lines=AI%2FML+Engineer;Full-Stack+Developer;Python+Developer;Software+Developer!" alt="Typing SVG" />
+  </a>
+</p>
 
 <div align="">
   <img align="right" alt="Coding" width="400" src="https://github.com/likhith-ts/likhith-ts/blob/main/skull.gif">
